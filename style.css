@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(90deg, #C4E538, #00ffff);
+}
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+    font-size: 50px;
+    color: darkorchid;
+}
+.formstyle {
+  background-color: lightpink;
+  width: 37%;
+  margin: auto;
+  border: 6px solid lightblue;
+  border-radius: 15px;
+}
+.formstyle input[type="button"] {
+  background: linear-gradient(45deg, #2d10cd, transparent);
+  padding: 20px 30px;
+  margin: 5px;
+  font-size: 30px;
+  border-radius: 10px;
+}
+#calculation {
+  padding: 20px 0px;
+  border: 1px solid cadetblue;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: cadetblue;
+  color: white;
+  margin-top: 10px;
+}
+#equal {
+  padding: 20px 70px;
+}
+#clear {
+  padding: 20px 60px;
+}
+
+
+
